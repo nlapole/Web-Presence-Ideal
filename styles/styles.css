@@ -1,0 +1,80 @@
+h1 {
+    color:#DA2829;
+    font-family:"Consolas", sans-serif;
+    font-size: 22pt;
+    text-align:center;
+    max-width: 700px;
+}
+
+h2 {
+    color: #003153;
+    font-family:"Consolas",sans-serif;
+    font-size: 14pt;
+    
+}
+
+p {
+    color: #826644;
+    font-family:"Kings Caslon", sans-serif;
+    font-size: 14pt;
+    line-height: 20pt;
+    max-width: 700px;
+   
+}
+
+img {
+    max-width: 100%;
+}
+
+.headerImg {
+    max-width:100%;
+}
+
+hr {
+    width:25%;
+    border-color:#cb9d06;
+    
+}
+
+.month {
+    color: #003153;
+    font-family:"Consolas",sans-serif;
+    font-size: 14pt;
+    line-height: 20pt;
+    max-width: 700px;
+    text-align: center;
+}
+.isoCenter {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 20px;
+}
+
+.links {
+    text-align:center;
+    background: #848482;
+    border: dashed;
+    height:160px;
+    width:160px;
+    margin: 0px 0px 15px 0px;
+}
+
+.mainlinks {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items:center;
+}
+
+.imgGallery {
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    align-items: center;
+    gap: 16px;
+    
+}
